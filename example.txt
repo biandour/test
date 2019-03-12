@@ -1,2 +1,2 @@
-this is a git learning text.
-lets have a start!
+git is a distributed version control system.
+git is free software.
